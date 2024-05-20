@@ -2,7 +2,7 @@
 
 ### Heyyyy! I'm Elili Marakathalingasivam ([website])
 <p 
-<a href="https://github.com/elilibm" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFC300&width=380&height=45&lines=High+School+Student;Loves+To+Learn;Make+A+Positive+Difference;Wassup+🐶&style=bold&center=true" alt="taking time to load" /></a> </p>
+<a href="https://github.com/elilibm" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFC300&width=380&height=45&lines=University+Student;Loves+To+Learn;Make+A+Positive+Difference;Wassup+🐶&style=bold&center=true" alt="taking time to load" /></a> </p>
 
 ## I'm a high school student attending UHS...
 - 🌱 I’m currently learning as much as I cannn
@@ -23,4 +23,4 @@
   <summary> Activity ⏰ </summary>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elilibm&theme=great-gatsby" />
 
-[website]: https://elili.ca/
+[website]: https://elilisivam.ca/
