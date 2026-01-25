@@ -1,6 +1,6 @@
  <img align="right" alt="GIF" src="https://github.com/elilibm/website/blob/main/waving.gif"/>
 
-### Heyyyy! I'm Elili Marakathalingasivam ([website])
+### Heyyyy! I'm Elili Marakathalingasivam
 <p 
 <a href="https://github.com/elilibm" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFC300&width=380&height=45&lines=University+Student;Loves+To+Learn;Make+A+Positive+Difference;Wassup+🐶&style=bold&center=true" alt="taking time to load" /></a> </p>
 
