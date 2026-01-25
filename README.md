@@ -4,7 +4,7 @@
 <p 
 <a href="https://github.com/elilibm" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFC300&width=380&height=45&lines=University+Student;Loves+To+Learn;Make+A+Positive+Difference;Wassup+🐶&style=bold&center=true" alt="taking time to load" /></a> </p>
 
-## I'm a high school student attending UHS...
+## I'm a UW SYDE student...
 - 🌱 I’m currently learning as much as I cannn
 - 👯 I’m looking to collaborate on whatever I can
 - 💬 Ask me about... anything! I will do my best to help 😤
